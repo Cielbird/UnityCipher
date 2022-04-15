@@ -1,0 +1,16 @@
+{
+  "name": "com.cielbird.unity_cipher",
+  "version": "1.0.0",
+  "displayName": "UnityCipher",
+  "description": "A lightweight localization package",
+  "unity": "2021.2",
+  "unityRelease": "8f1",
+  "author": {
+    "name": "Cielbird",
+    "email": "guilhem.ane3@gmail.com",
+    "url": "https://cielbird.github.io"
+  },
+  "dependencies": {
+    "com.unity.textmeshpro": "3.0.6"
+  }
+}
